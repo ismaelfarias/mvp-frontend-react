@@ -5,7 +5,7 @@ import dados from "../dados.json";
 const Home = () => {
   return (
     <>
-      <PageTitle title="LANÇAMENTOS" />
+      <PageTitle title="NOVIDADES" />
       <Images products={dados.products.filter(product => product.new === "S")}/>
     </>
   );
