@@ -2,7 +2,7 @@
     "products": [
         {
             "id": 1,
-            "productName": "colar_01",
+            "productName": "Colar 001",
             "description": "Colar de Perolas",
             "img": "./images/colar_01.png",
             "category": 3,
@@ -10,7 +10,7 @@
         },
         {
             "id": 2,
-            "productName": "colar_02",
+            "productName": "Colar 002",
             "description": "Colar de Diamantes",
             "img": "./images/colar_02.png",
             "category": 3,
@@ -18,16 +18,16 @@
         },
         {
             "id": 3,
-            "productName": "colar_03",
+            "productName": "Colar 003",
             "description": "Colar de brilhantes",
             "img": "./images/colar_03.png",
             "title": "",
             "category": 3,
-            "new": ""
+            "new": "S"
         },
         {
             "id": 4,
-            "productName": "anel_01",
+            "productName": "Anel 001",
             "description": "Anel de brilhantes",
             "img": "./images/anel_01.png",
             "title": "anel 01",
@@ -36,7 +36,7 @@
         },
         {
             "id": 5,
-            "productName": "anel_02",
+            "productName": "Anel 002",
             "description": "Anel em ouro com brilhantes",
             "img": "./images/anel_02.png",
             "title": "anel 02",
@@ -45,24 +45,24 @@
         },
         {
             "id": 6,
-            "productName": "alianca_01",
-            "description": "Anel de brilhantes",
+            "productName": "Aliança 001",
+            "description": "Aliança em ouro com pedra de diamante",
             "img": "./images/alianca_01.png",
             "title": "anel 01",
-            "category": 3,
-            "new": ""
+            "category": 2,
+            "new": "S"
         },       {
             "id": 7,
-            "productName": "alianca_02",
-            "description": "Anel de brilhantes",
+            "productName": "Aliança 002",
+            "description": "Aliança em ouro com detalhes",
             "img": "./images/alianca_02.png",
             "title": "anel 01",
-            "category": 3,
-            "new": ""
+            "category": 2,
+            "new": "S"
         },
         {
             "id": 8,
-            "productName": "conjunto_01",
+            "productName": "Conjunto 001",
             "description": "Anel de brilhantes",
             "img": "./images/conjunto_01.png",
             "title": "anel 01",
@@ -71,7 +71,7 @@
         },
         {
             "id": 9,
-            "productName": "brinco_01",
+            "productName": "Brinco 001",
             "description": "Anel de brilhantes",
             "img": "./images/brinco_01.png",
             "title": "anel 01",
@@ -80,12 +80,12 @@
         },
         {
             "id": 10,
-            "productName": "brino_02",
+            "productName": "Brinco 002",
             "description": "Anel de brilhantes",
             "img": "./images/brinco_02.png",
             "title": "anel 01",
             "category": 1,
-            "new": ""
+            "new": "S"
         }
     ],
     "category": [
