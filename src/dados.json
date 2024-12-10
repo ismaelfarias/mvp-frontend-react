@@ -1,0 +1,105 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "productName": "colar_01",
+            "description": "Colar de Perolas",
+            "img": "./images/colar_01.png",
+            "category": 3,
+            "new": "S"
+        },
+        {
+            "id": 2,
+            "productName": "colar_02",
+            "description": "Colar de Diamantes",
+            "img": "./images/colar_02.png",
+            "category": 3,
+            "new": "S"
+        },
+        {
+            "id": 3,
+            "productName": "colar_03",
+            "description": "Colar de brilhantes",
+            "img": "./images/colar_03.png",
+            "title": "",
+            "category": 3,
+            "new": ""
+        },
+        {
+            "id": 4,
+            "productName": "anel_01",
+            "description": "Anel de brilhantes",
+            "img": "./images/anel_01.png",
+            "title": "anel 01",
+            "category": 2,
+            "new": "S"
+        },
+        {
+            "id": 5,
+            "productName": "anel_02",
+            "description": "Anel em ouro com brilhantes",
+            "img": "./images/anel_02.png",
+            "title": "anel 02",
+            "category": 2,
+            "new": ""
+        },
+        {
+            "id": 6,
+            "productName": "alianca_01",
+            "description": "Anel de brilhantes",
+            "img": "./images/alianca_01.png",
+            "title": "anel 01",
+            "category": 3,
+            "new": ""
+        },       {
+            "id": 7,
+            "productName": "alianca_02",
+            "description": "Anel de brilhantes",
+            "img": "./images/alianca_02.png",
+            "title": "anel 01",
+            "category": 3,
+            "new": ""
+        },
+        {
+            "id": 8,
+            "productName": "conjunto_01",
+            "description": "Anel de brilhantes",
+            "img": "./images/conjunto_01.png",
+            "title": "anel 01",
+            "category": 1,
+            "new": "S"
+        },
+        {
+            "id": 9,
+            "productName": "brinco_01",
+            "description": "Anel de brilhantes",
+            "img": "./images/brinco_01.png",
+            "title": "anel 01",
+            "category": 1,
+            "new": ""
+        },
+        {
+            "id": 10,
+            "productName": "brino_02",
+            "description": "Anel de brilhantes",
+            "img": "./images/brinco_02.png",
+            "title": "anel 01",
+            "category": 1,
+            "new": ""
+        }
+    ],
+    "category": [
+        {
+            "id": 1,
+            "description": "Brinco"
+        },
+        {
+            "id": 2,
+            "description": "Anel"
+        },
+        {
+            "id": 3,
+            "description": "Colar"
+        }
+    ]
+}
